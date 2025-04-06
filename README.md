@@ -26,3 +26,7 @@ A console-based Animal Guessing Game built in C++ using a dynamic decision tree.
 - **Language:** C++
 - **Data Structures:** Custom Linked List (Binary Tree Style)
 - **Concepts:** Recursion, Dynamic Memory Allocation, Input Validation, User Interaction
+
+## 📄 Sample Output
+
+👉 [Click here to view the sample output](https://github.com/Spikestar05/Animal-Guessing-Game/blob/main/Animal%20Guessing%20Game%20Output.pdf)
