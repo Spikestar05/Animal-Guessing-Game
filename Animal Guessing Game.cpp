@@ -1,6 +1,3 @@
-//Harshavarthan Mathapati
-//4-3-2024
-//CS 1337.010
 //This program is an Animal Guessing game where the computer tries to guess the animal the player is thinking of by asking questions, and storing them in linked lists.
 //Change Log:
 //4-3-2024
